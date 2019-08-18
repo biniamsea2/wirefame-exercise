@@ -1,0 +1,138 @@
+#div1{
+    display: inline-block;
+    background:black;
+    align-content: center;
+    width:960px;
+    height:450px;
+    margin-left:60mm;
+    /* margin-top:40mm; */
+}
+#div2{
+    display: inline-block;
+    width:300px;
+    height:375px;
+    background:black;
+    margin-top:20px;
+    margin-left:60mm;
+    margin-bottom: 20px;
+
+}
+#div3{
+    display: inline-block;
+    width:300px;
+    height:375px;
+    background:black;
+    margin-top:20px;
+    margin-left:7mm;
+    margin-bottom: 20px;
+
+}
+#div4{
+    display: inline-block;
+    width:300px;
+    height:375px;
+    background:black;
+    margin-left:7mm;
+    margin-bottom: 20px;
+}
+#div5{
+    display: block;
+    width:480px;
+    height:400px;
+    background:black;
+    margin-left:60mm;
+    margin-bottom: 20px;
+}
+#section{
+    overflow: auto;
+    width: 450px;
+    height:360px;
+    clear: both;
+    margin-left: 135mm;
+    font-style: initial;
+}
+#section h1{
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#section p{
+    font-style: italic;
+    font-weight: bold;
+}
+#call{
+    background:black;
+    color: white;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    margin-top: -14mm;
+    margin-left: 195mm;
+    padding-top: 7px;
+    font-family: sans-serif;
+}
+#footer{
+    background: rgb(80, 77, 77);
+    width: 290mm;
+    height:35mm;
+    margin-left: 40mm;
+    margin-top:20px;
+    margin-bottom: 25px;
+}
+#footer2{
+    background: rgb(80, 77, 77);
+    width: 290mm;
+    height:25mm;
+    margin-left: 40mm;
+    margin-top:20px;
+    margin-bottom: 20px;
+    display: inline-block;
+
+}
+#first{
+    background: black;
+    display: inline-block;
+    width: 200px;
+    height: 70px;
+    margin-top: 13px;
+    margin-left: 100px;
+}
+#p1{
+    color:rgb(182, 179, 179);
+    /* display: inline; */
+    font-family: sans-serif;
+    padding-left: 90mm;
+    margin-top: -45px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+#p2{
+    color:rgb(182, 179, 179);
+    /* display: inline; */
+    font-family: sans-serif;
+    margin-left: 130mm;
+    margin-top: -15px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+
+#p3{
+    color:rgb(182, 179, 179);
+    /* display: inline; */
+    font-family: sans-serif;
+    margin-left: 170mm;
+    margin-top: -15px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+#p4{
+    color: rgb(182, 179, 179);
+    font-family: sans-serif;
+    /* display: inline; */
+    margin-left: 210mm;
+    margin-top: -15px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
